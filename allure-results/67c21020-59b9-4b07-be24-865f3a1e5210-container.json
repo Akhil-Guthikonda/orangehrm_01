@@ -1,0 +1,1 @@
+{"uuid":"67c21020-59b9-4b07-be24-865f3a1e5210","name":"testCases.TC_0001_HRMLogin","children":["e0ded34b-91dd-4cb4-aea8-6d7534eee1e0"],"befores":[{"name":"LaunchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742747104382,"stop":1742747110978}],"afters":[],"start":1742747104330,"stop":1742747112040}

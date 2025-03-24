@@ -1,0 +1,1 @@
+{"uuid":"ca921173-c272-4b34-ac68-786edc5e4296","name":"testCases.TC_0001_HRMLogin","children":["5d0c85be-3d29-4e61-9d7f-fdc98a2ece04"],"befores":[{"name":"LanuchBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1742746394435,"stop":1742746402868}],"afters":[],"start":1742746394393,"stop":1742746403371}
